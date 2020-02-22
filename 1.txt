@@ -1,4 +1,4 @@
-abhi maine 1.txt change kiya,abhi dono branches me ye file ka content iss commit ke pehle bas itna hi tha:-
+abhi maine 2.txt change dono branches kiya h commit ke pehle bas itna hi tha:-
 
 
 this is 1.txt, updated one
